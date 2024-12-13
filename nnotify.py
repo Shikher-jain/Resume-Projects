@@ -1,3 +1,5 @@
+# On Windows, make sure "Focus Assist" is disabled.
+
 # import os
 # import time
 # from plyer import notification
